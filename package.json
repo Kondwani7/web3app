@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@ethersproject/bignumber": "^5.7.0",
+    "@metamask/providers": "^10.2.1",
     "@openzeppelin/contracts": "^4.8.1",
     "@types/node": "18.14.2",
     "@types/react": "18.0.28",
